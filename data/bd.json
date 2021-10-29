@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "nombre": "Alexandra",
+      "fecha": "2021-11-01",
+      "hora": "14:42",
+      "sintomas": "Gripa",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel",
+      "fecha": "2021-11-03",
+      "hora": "13:07",
+      "sintomas": "Dolor de oído",
+      "id": 3
+    },
+    {
+      "nombre": "José",
+      "fecha": "2021-11-03",
+      "hora": "14:16",
+      "sintomas": "Dolor de espalda",
+      "id": 5
+    },
+    {
+      "nombre": "Iván",
+      "fecha": "2021-10-29",
+      "hora": "13:33",
+      "sintomas": "Tos",
+      "id": 6
+    }
+  ]
+}
